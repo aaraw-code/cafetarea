@@ -7,13 +7,14 @@ menu = {
     "pasta":50,
     "salad":70,
     "coffe":80,
-    "Burger":70
-}
+    "Burger":70,
+    "sandwich":30,
+    }
 
 #greet customer
 
 print("Welcome to PYTHON RESTAURANT")
-print("pizza: Rs40\npasta: Rs50\nBurger: Rs60\nSalad: Rs70\ncoffe: Rs80" )
+print("pizza: Rs40\npasta: Rs50\nBurger: Rs60\nSalad: Rs70\ncoffe: Rs80\nsandwich: Rs30" )
 
 order_total = 0   #80 + 70 = 150
 
